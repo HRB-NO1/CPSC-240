@@ -1,7 +1,6 @@
 #!/bin/bash
 
-#Author: Daniel C
-#Title: BASH compile for C++
+#Author: Keith Sun
 
 rm *.o
 rm *.out
